@@ -46,10 +46,3 @@
 
 ### ◾ CURRENTLY LEARNING
 ![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=black)
-
----
-
-### ◾ GITHUB STATS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princelorevic&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
-</div>
