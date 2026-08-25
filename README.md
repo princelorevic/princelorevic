@@ -8,7 +8,7 @@
 
 ### ◾ ABOUT ME
 
-* ▹ **Focus:** I'm currently looking for new opportunities as a **Junior Full Stack Web Developer**.
+* ▹ **Focus:** I'm currently looking for new opportunities as a **Full Stack Web Developer**.
 * ▹ **Expertise:** I have experience in data visualization and building interactive dashboards using **Looker Studio**.
 * ▹ **Growth:** I’m currently focused on upskilling and learning new technologies.
 * ▹ **Contact:** **roxasprince1422@gmail.com** | **[LinkedIn Profile](https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/)**
