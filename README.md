@@ -1,48 +1,161 @@
+
+<!-- ═══════════════ HEADER ═══════════════ -->
+
 <div align="center">
-  <h1>PRINCE LOREVIC ADO ROXAS</h1>
-  <h3>FULL STACK WEB DEVELOPER</h3>
-  <p>Building scalable, user-centric web applications with a minimalist approach.</p>
+
+# PRINCE LOREVIC ADO ROXAS
+
+### Full Stack Web Developer
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Web+Applications;React+%2B+Tailwind+CSS;Node.js+%2B+MySQL;Turning+Ideas+Into+Solutions" alt="Animated developer introduction" />
+</p>
+
+<p>
+  Building practical, user-focused web applications with clean code,
+  thoughtful UI, and reliable backend systems.
+</p>
+
+<p>
+  <a href="https://github.com/roxasprince1422-bot">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:roxasprince1422@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-238636?style=for-the-badge" alt="Open to opportunities" />
+</p>
+
+<p>
+  <b>Available for:</b> Full-time roles · Freelance · Contract Projects
+</p>
+
 </div>
 
 ---
 
-### ◾ ABOUT ME
+## 👨‍💻 About Me
 
-* ▹ **Focus:** I'm currently looking for new opportunities as a **Full Stack Web Developer**.
-* ▹ **Expertise:** I have experience in data visualization and building interactive dashboards using **Looker Studio**.
-* ▹ **Growth:** I’m currently focused on upskilling and learning new technologies.
-* ▹ **Contact:** **roxasprince1422@gmail.com** | **[LinkedIn Profile](https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/)**
+I'm a BSIT graduate passionate about developing web applications
+that solve practical problems and improve everyday workflows.
 
----
+- 💻 **Development:** Building frontend interfaces and backend services.
+- 🎨 **Frontend:** React, JSX, Tailwind CSS, HTML, CSS, and JavaScript.
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs, and Python.
+- 🗄️ **Database:** MySQL and relational database design.
+- 📊 **Data & Analytics:** Looker Studio dashboards and data visualization.
+- 🚀 **Growth:** Continuously improving my software development skills.
 
-### ◾ TECH STACK & TOOLS
-
-**Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-
-**Backend & Database:**
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-
-**UI/UX & Design:**
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-**Data, AI & Workflow:**
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-000000?style=for-the-badge&logo=google&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Past Experience:**
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
+I'm looking for opportunities to contribute to real-world projects,
+collaborate with developers, and grow as a Full Stack Developer.
 
 ---
 
-### ◾ CURRENTLY LEARNING
-![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=black)
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML CSS JavaScript React Tailwind CSS" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql" alt="Node.js Express Python MySQL" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase" alt="Git GitHub VS Code Figma Firebase" />
+</p>
+
+### Data, AI & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+</p>
+
+### Previous Experience
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,visualstudio" alt="C++ and Visual Studio" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### Enterprise Learning Management System
+
+A web-based training platform designed to organize employee learning
+and monitor training progress.
+
+- Role-based access for administrators, supervisors, and employees.
+- Course assignments, assessments, and progress tracking.
+- Training dashboards and reporting workflows.
+- Backend API and relational database integration.
+
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
+
+### HR Information System
+
+A project focused on organizing employee information and HR workflows.
+
+- Employee information management.
+- Role-based access control.
+- REST API integration.
+- Database-driven records and reporting.
+
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
+
+> Add the actual repository links to these projects once the repositories
+> are public and ready for recruiters to review.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=roxasprince1422-bot&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxasprince1422-bot&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=roxasprince1422-bot&theme=github-compact&hide_border=true" alt="GitHub contribution activity" />
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to opportunities where I can contribute, learn, and build
+useful software with a team.
+
+Whether you're hiring a developer or looking for someone to help
+with a web development project, feel free to reach out.
+
+<div align="center">
+
+<a href="mailto:roxasprince1422@gmail.com">
+  <img src="https://img.shields.io/badge/HIRE%20ME-Contact%20via%20Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" />
+</a>
+
+<a href="https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<p><i>Build with purpose. Learn continuously. Improve every day.</i></p>
+
+</div>
