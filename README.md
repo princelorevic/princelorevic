@@ -46,7 +46,7 @@ I'm a BSIT graduate passionate about developing web applications
 that solve practical problems and improve everyday workflows.
 
 - 💻 **Development:** Building frontend interfaces and backend services.
-- 🎨 **Frontend:** React, JSX, Tailwind CSS, HTML, CSS, and JavaScript.
+- 🎨 **Frontend:** React, Tailwind CSS, HTML, CSS, and JavaScript.
 - ⚙️ **Backend:** Node.js, Express.js, REST APIs, and Python.
 - 🗄️ **Database:** MySQL and relational database design.
 - 📊 **Data & Analytics:** Looker Studio dashboards and data visualization.
@@ -128,7 +128,11 @@ A project focused on organizing employee information and HR workflows.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=roxasprince1422-bot&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<a href="https://github.com/princelorevic/Learning-Management-System-v.1">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=princelorevic&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+       alt="GitHub statistics" />
+</a>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxasprince1422-bot&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 
