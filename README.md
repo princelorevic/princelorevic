@@ -134,9 +134,17 @@ A project focused on organizing employee information and HR workflows.
        alt="GitHub statistics" />
 </a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxasprince1422-bot&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=princelorevic&layout=compact&theme=github_dark&hide_border=true"
+  alt="Most used languages"
+/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=roxasprince1422-bot&theme=github-compact&hide_border=true" alt="GitHub contribution activity" />
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=princelorevic&theme=github-compact&hide_border=true"
+  alt="GitHub contribution activity"
+/>
 
 </div>
 
