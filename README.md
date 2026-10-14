@@ -1,40 +1,30 @@
 
-<!-- ═══════════════ HEADER ═══════════════ -->
-
 <div align="center">
 
-# PRINCE LOREVIC ADO ROXAS
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:0B2D50,100:087EA4&text=PRINCE%20LOREVIC%20ROXAS&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Profile banner" />
 
-### Full Stack Web Developer
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Web+Applications;React+%2B+Tailwind+CSS;Node.js+%2B+MySQL;Turning+Ideas+Into+Solutions" alt="Animated developer introduction" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Practical+Web+Applications;React+%2B+Tailwind+CSS;Node.js+%2B+Express+%2B+MySQL;Turning+Ideas+Into+Solutions" alt="Typing introduction" />
 
 <p>
-  Building practical, user-focused web applications with clean code,
-  thoughtful UI, and reliable backend systems.
+  <b>Building practical, user-focused web applications.</b><br/>
+  Clean interfaces · Reliable backends · Useful business systems
 </p>
 
-<p>
-  <a href="https://github.com/roxasprince1422-bot">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:roxasprince1422@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://github.com/princelorevic">
+  <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:roxasprince1422@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-238636?style=for-the-badge" alt="Open to opportunities" />
-</p>
+<br/>
 
-<p>
-  <b>Available for:</b> Full-time roles · Freelance · Contract Projects
-</p>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-238636?style=for-the-badge" alt="Open to opportunities"/>
+
+<sub>Full-time opportunities · Freelance · Contract projects</sub>
 
 </div>
 
@@ -42,146 +32,128 @@
 
 ## 👨‍💻 About Me
 
-I'm a BSIT graduate passionate about developing web applications
-that solve practical problems and improve everyday workflows.
+I'm a **BSIT graduate** focused on building web applications that solve practical problems and improve everyday workflows.
 
-- 💻 **Development:** Building frontend interfaces and backend services.
-- 🎨 **Frontend:** React, Tailwind CSS, HTML, CSS, and JavaScript.
-- ⚙️ **Backend:** Node.js, Express.js, REST APIs, and Python.
-- 🗄️ **Database:** MySQL and relational database design.
-- 📊 **Data & Analytics:** Looker Studio dashboards and data visualization.
-- 🚀 **Growth:** Continuously improving my software development skills.
+My experience includes developing a Learning Management System and working on database-driven business applications. I enjoy connecting frontend interfaces with backend services to create useful, maintainable systems.
 
-I'm looking for opportunities to contribute to real-world projects,
-collaborate with developers, and grow as a Full Stack Developer.
+- ⚛️ **Frontend:** React JSX, Tailwind CSS, JavaScript, HTML, CSS
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs
+- 🗄️ **Database:** MySQL and relational database design
+- 🔐 **Application features:** Authentication and role-based access control
+- 📊 **Additional tools:** Git, GitHub, Firebase, Figma, Looker Studio
+
+I'm continuously improving my development skills and looking for opportunities to contribute to real-world software projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML CSS JavaScript React Tailwind CSS" />
-</p>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML CSS JavaScript React Tailwind CSS"/>
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql" alt="Node.js Express Python MySQL" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql" alt="Node.js Express Python MySQL"/>
 
 ### Tools & Workflow
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase" alt="Git GitHub VS Code Figma Firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase" alt="Git GitHub VS Code Figma Firebase"/>
 
-### Data, AI & Design
-
-<p>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-</p>
-
-### Previous Experience
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,visualstudio" alt="C++ and Visual Studio" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### Enterprise Learning Management System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A web-based training platform designed to organize employee learning
-and monitor training progress.
+### 🎓 Enterprise Learning Management System
 
-- Role-based access for administrators, supervisors, and employees.
-- Course assignments, assessments, and progress tracking.
-- Training dashboards and reporting workflows.
-- Backend API and relational database integration.
+A web-based training platform designed to organize employee learning and monitor training progress.
 
-**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
+**Key features**
+- Role-based access for administrators, supervisors, and employees
+- Course assignments and assessments
+- Trainee progress tracking and dashboards
+- Backend API and MySQL integration
 
-### HR Information System
+**Stack:** Node.js · Express.js · MySQL · HTML · CSS · JavaScript
+
+<a href="https://github.com/princelorevic/Learning-Management-System-v.1">View LMS Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Human Resources Information System
 
 A project focused on organizing employee information and HR workflows.
 
-- Employee information management.
-- Role-based access control.
-- REST API integration.
-- Database-driven records and reporting.
+**Key features**
+- Employee information management
+- Role-based access control
+- REST API integration
+- Database-driven records and reporting
 
-**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
+**Stack:** Node.js · Express.js · MySQL · HTML · CSS · JavaScript
 
-> Add the actual repository links to these projects once the repositories
-> are public and ready for recruiters to review.
+<sub>Add the repository link here when it is ready for public review.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I Build
+## 💡 What I Build
 
-- **Full-Stack Web Applications** — Responsive interfaces,
-  backend APIs, and database integration.
-- **Business Systems** — LMS, HRIS, dashboards, and
-  workflow automation.
-- **Secure Applications** — Authentication, role-based
-  access control, and structured database operations.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 💼 Featured Projects
+### 🌐 Web Applications
 
-### 🎓 Learning Management System (LMS)
-A training management platform with course management,
-assessments, trainee progress tracking, and role-based dashboards.
+Responsive user interfaces connected to backend APIs and databases.
 
-### 🏢 Human Resources Information System (HRIS)
-An HR system focused on employee records, HR workflows,
-authentication, and database-driven features.
+</td>
+<td width="33%" valign="top">
 
-## 🛠️ Tech Stack
+### 🏢 Business Systems
 
-![React](https://img.shields.io/badge/React-JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Training platforms, HR workflows, dashboards, and internal tools.
 
-## 🤝 Let's Work Together
+</td>
+<td width="33%" valign="top">
 
-I'm open to junior developer opportunities, freelance projects,
-and contract work.
+### 🔐 Application Features
 
-- 🌐 Portfolio: https://prince-lorevic-portfolio.web.app
-- 💼 LinkedIn: https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/
-- 📧 Email: roxasprince1422@gmail.com
+Authentication, role-based permissions, and structured data management.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Let's Work Together
 
-I'm open to opportunities where I can contribute, learn, and build
-useful software with a team.
-
-Whether you're hiring a developer or looking for someone to help
-with a web development project, feel free to reach out.
+I'm open to junior developer opportunities, freelance projects, and contract work where I can contribute, collaborate, and keep growing as a developer.
 
 <div align="center">
 
+<a href="https://prince-lorevic-portfolio.web.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-0D8ABC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="mailto:roxasprince1422@gmail.com">
-  <img src="https://img.shields.io/badge/HIRE%20ME-Contact%20via%20Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" />
+  <img src="https://img.shields.io/badge/HIRE%20ME-Email%20Me-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me"/>
 </a>
 
-<a href="https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
+<br/><br/>
 
-<p><i>Build with purpose. Learn continuously. Improve every day.</i></p>
+<i>Build with purpose. Learn continuously. Improve every day.</i>
 
 </div>
