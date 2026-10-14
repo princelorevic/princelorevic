@@ -124,29 +124,43 @@ A project focused on organizing employee information and HR workflows.
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 What I Build
 
-<div align="center">
+- **Full-Stack Web Applications** — Responsive interfaces,
+  backend APIs, and database integration.
+- **Business Systems** — LMS, HRIS, dashboards, and
+  workflow automation.
+- **Secure Applications** — Authentication, role-based
+  access control, and structured database operations.
 
-<a href="https://github.com/princelorevic/Learning-Management-System-v.1">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=princelorevic&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-       alt="GitHub statistics" />
-</a>
+## 💼 Featured Projects
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=princelorevic&layout=compact&theme=github_dark&hide_border=true"
-  alt="Most used languages"
-/>
+### 🎓 Learning Management System (LMS)
+A training management platform with course management,
+assessments, trainee progress tracking, and role-based dashboards.
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=princelorevic&theme=github-compact&hide_border=true"
-  alt="GitHub contribution activity"
-/>
+### 🏢 Human Resources Information System (HRIS)
+An HR system focused on employee records, HR workflows,
+authentication, and database-driven features.
 
-</div>
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🤝 Let's Work Together
+
+I'm open to junior developer opportunities, freelance projects,
+and contract work.
+
+- 🌐 Portfolio: https://prince-lorevic-portfolio.web.app
+- 💼 LinkedIn: https://www.linkedin.com/in/roxas-prince-lorevic-a-b30a12369/
+- 📧 Email: roxasprince1422@gmail.com
 
 ---
 
