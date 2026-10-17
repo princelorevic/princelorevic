@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:0B2D50,100:087EA4&text=PRINCE%20LOREVIC%20ROXAS&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=16&descAlignY=65&animation=fadeIn" width="100%" alt="Profile banner" />
+<!-- PALITAN ANG LINK SA IBABA NG TOTOONG URL NG UPLOADED BANNER MO -->
+<img src="Github_Banner.jpg" width="100%" alt="Prince Lorevic Roxas - Software & Full Stack Web Developer Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Practical+Web+Applications;React+%2B+Vanilla+JS;Node.js+%2B+Express+%2B+MySQL;Turning+Ideas+Into+Solutions" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=550&lines=Web+%26+Desktop+Software+Solutions;React+%2B+Vanilla+JS+%2B+Tauri;Node.js+%2B+Express+%2B+MySQL;Turning+Business+Needs+Into+Systems" alt="Typing introduction" />
 
 <p>
-  <b>Building practical, user-focused web applications.</b><br/>
-  Clean Interfaces · Reliable Backends · Useful Business Systems
+  <b>Building practical web applications and desktop software solutions.</b><br/>
+  Clean Interfaces · Reliable Backends · Business Automation
 </p>
 
 <a href="https://github.com/princelorevic">
@@ -26,24 +27,20 @@
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-238636?style=flat-square" alt="Open to opportunities"/>
 
-<sub>Full-time opportunities · Freelance · Contract projects</sub>
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** focused on building applications that solve practical problems and improve everyday workflows. With a background that bridges technical development and HR training operations, I specialize in creating useful, maintainable systems that make a real business impact.
+I'm a **Software & Full Stack Web Developer** focused on building applications that solve practical business problems, streamline workflows, and automate complex processes. My expertise bridges the gap between web platforms and desktop application integrations.
 
-My experience includes developing a fully functional Learning Management System (LMS) with role-based access and working on database-driven internal tools. 
+Whether it's developing a Learning Management System, architecting an HR Information System, or configuring desktop automation tools, I focus on building useful and maintainable systems.
 
 - ⚛️ **Frontend:** Vanilla JavaScript, HTML5, CSS3, currently learning React
-- ⚙️ **Backend:** Node.js, Express.js, Basic Python
+- ⚙️ **Backend & Software:** Node.js, Express.js, Basic Python, experience with Tauri & Rust
 - 🗄️ **Database:** MySQL Workbench, Relational Database Design
 - 📊 **Additional Tools:** Git, GitHub, VS Code, Figma, Canva, Looker Studio
-
-I'm continuously refining my development skills and looking for opportunities to contribute to real-world software projects.
 
 ---
 
@@ -54,21 +51,12 @@ I'm continuously refining my development skills and looking for opportunities to
 ### Frontend & Design
 <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" alt="HTML CSS JavaScript React Figma"/>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python" alt="Node.js Express MySQL Python"/>
+### Backend, Software & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python,rust" alt="Node.js Express MySQL Python Rust"/>
 
 ### Tools & Workflow
 <img src="https://skillicons.dev/icons?i=vscode,git,github,gcp" alt="VS Code Git GitHub Firebase"/>
 
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princelorevic&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princelorevic&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Streak" />
 </div>
 
 ---
@@ -79,35 +67,45 @@ I'm continuously refining my development skills and looking for opportunities to
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Enterprise Learning Management System
-A web-based training platform designed to organize employee learning and monitor training progress.
+### 📦 Inventory Sales Management System
+A comprehensive software solution for tracking inventory, managing product stock, and monitoring daily sales operations efficiently.
 
-**Key Features:**
-- Role-based access (Admins, Supervisors, Trainees)
-- Course assignments and assessments
-- Trainee progress tracking and interactive dashboards
-- Secure backend API and relational database structure
+**Stack:** Node.js · Express.js · MySQL · JavaScript
 
-**Stack:** Node.js · Express.js · MySQL · HTML · CSS · Vanilla JS
-
-<a href="https://github.com/princelorevic/Learning-Management-System-v.1"><b>View LMS Repository →</b></a>
+<a href="https://github.com/princelorevic/Inventory-Sales-Management-System"><b>View Repository →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Human Resources Information System
-A dedicated system focused on organizing employee data and streamlining HR workflows.
+### 🏢 Human Resources Information System (HRIS)
+A dedicated business system focused on organizing employee data, streamlining HR workflows, and structuring internal records.
 
-**Key Features:**
-- Comprehensive employee information management
-- Secure role-based access control
-- Custom REST API integration
-- Database-driven records and real-time reporting
+**Stack:** Node.js · Express.js · MySQL · Vanilla JS
 
-**Stack:** Node.js · Express.js · MySQL · HTML · CSS · Vanilla JS
+<a href="https://github.com/princelorevic/HRIS"><b>View Repository →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Enterprise Learning Management System
+A web-based training platform designed to organize employee learning and track progress via interactive dashboards with role-based access.
+
+**Stack:** Node.js · Express.js · MySQL · Looker Studio
+
+<a href="https://github.com/princelorevic/Learning-Management-System-v.1"><b>View Repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Offline Encoder Automation Software
+A desktop application integration designed for process automation, featuring field normalization, local OCR capabilities, and Excel template mapping.
+
+**Stack:** Tauri · Rust · Python FastAPI
 
 <br/>
-<i>Repository link coming soon for public review.</i>
+<i>Internal/Private Business Application</i>
 
 </td>
 </tr>
@@ -115,35 +113,15 @@ A dedicated system focused on organizing employee data and streamlining HR workf
 
 ---
 
-## 💡 What I Build
+## 📈 GitHub Stats
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌐 Web Applications
-Responsive, user-centric interfaces seamlessly connected to robust backend APIs.
-
-</td>
-<td width="33%" valign="top">
-
-### 🏢 Business Systems
-Scalable training platforms, internal HR workflows, and data-driven dashboards.
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 App Architecture
-Secure authentication, precise role-based permissions, and optimized data modeling.
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princelorevic&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princelorevic&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Streak" />
+</div>
 
 <br/>
 
 <div align="center">
-
 <i>Build with purpose. Learn continuously. Improve every day.</i>
-
 </div>
